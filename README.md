@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **@Gipsy-ui**, a second-year student at **Western Mindanao State University (WMSU)**, pursuing a **Bachelor of Science in Computer Science (BSCS)** with a passion for **UI/UX Design**.
+I'm **@Gipsy-ui**, a third-year computer science student at **Western Mindanao State University (WMSU)**, pursuing a **Bachelor of Science in Computer Science (BSCS)** with a passion for **UI/UX Design**.
 
 - 👀 I’m interested in **UI/UX design**.
 - 🌱 I’m currently learning **Django, MySQL, and advanced UI/UX principles**.
