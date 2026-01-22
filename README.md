@@ -3,8 +3,8 @@
 I'm **@Gipsy-ui**, a third-year computer science student at **Western Mindanao State University (WMSU)**, pursuing a **Bachelor of Science in Computer Science (BSCS)** with a passion for **UI/UX Design**.
 
 - 👀 I’m interested in **UI/UX design**.
-- 🌱 I’m currently learning **Django, MySQL, and advanced UI/UX principles**.
-- 💞️ I’m looking to collaborate on **web applications, open-source UI/UX projects, and database-driven systems**.
+- 🌱 I’m currently learning **Advanced UI/UX principles**.
+- 💞️ I’m looking to collaborate on **web applications, and open-source UI/UX projects**.
 - 📫 How to reach me: **[rashidremigio25@gmail.com]**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy optimizing user experiences and making intuitive interfaces!**
